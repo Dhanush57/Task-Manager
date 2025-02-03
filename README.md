@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 
+### About the app
+
 Task Manager is a simple to do managing app built using Vue.js
 
 Please use the below credentials to login
