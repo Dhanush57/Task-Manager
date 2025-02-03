@@ -33,5 +33,5 @@ Password - password
 ```
 
 # Live version of site:
-https://task-manager-app-vue.netlify.app/login
+https://task-manager-app-vue.netlify.app
 
