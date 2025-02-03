@@ -18,6 +18,14 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+Task Manager is a simple to do managing app built using Vue.js
+
+Please use the below credentials to login
+Username - admin
+Password - password
+
+Live version of site: https://task-manager-app-vue.netlify.app/login
 ```
 
 ### Customize configuration
